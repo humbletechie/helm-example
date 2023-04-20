@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  frontend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-21T01:36:36.178217312+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 41de7137a4806bcbc602a39604d8a5fb32fb8e1a8f40f1fa40271783b7b35860
+    name: frontend
+    type: application
+    urls:
+    - https://humbletechie.github.io/helm-example/frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-21T01:36:36.17795166+05:30"
